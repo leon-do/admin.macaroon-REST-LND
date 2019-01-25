@@ -1,1 +1,0 @@
-https://github.com/lightningnetwork/lnd/issues/730
